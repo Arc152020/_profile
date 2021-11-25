@@ -21,10 +21,10 @@ function App() {
             Contact me via: 
           </p>
           <ul>
-            <li><a href=""><Facebook /></a></li>
-            <li><a href=""><Twitter /></a></li>
+            <li><a href="#"><Facebook /></a></li>
+            <li><a href="#"><Twitter /></a></li>
             <li><a href="mailto:marcusdashe.developer@gmail.com"><Email /></a></li>
-            <li><a href=""><WhatsApp /></a></li>
+            <li><a href="#"><WhatsApp /></a></li>
           </ul>
         </section>
       
